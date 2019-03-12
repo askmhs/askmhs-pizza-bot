@@ -37,4 +37,4 @@ yesno:
 quantity:
     type: regex
     options:
-        regex: '[1-9]'
+        regex: '[0-9]{1,2}'
